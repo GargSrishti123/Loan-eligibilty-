@@ -11,6 +11,7 @@ This model includes a classification problem for predicting whether a person is 
 - Performed EDA
 - Trained using various classification models
 - Has R2 score of 99% 
+- visualisation is done using Power BI
 
 
 
